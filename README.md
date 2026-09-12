@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello there, I'm Farhane Aya Ines
 
-<!--
-**ayaines/ayaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science major specializing in Artificial Intelligence**, based in Algeria. I am currently building a solid foundation in software engineering, data science, and machine learning to build end-to-end AI products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Tools
+* **Languages:** Python (Core), SQL
+* **Data & Math:** NumPy, Pandas (Learning)
+* **Tools & Workflow:** Git, GitHub, Linux Command Line, Google Colab
+
+---
+
+### Connect With Me
+* **LinkedIn:** https://www.linkedin.com/in/aya-farhane-1bab56312/
+* **Email:** ayaines.farhane@gmail.com
